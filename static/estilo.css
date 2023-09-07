@@ -25,12 +25,26 @@ h2{
 .entradas{ 
     list-style: none; margin: 0; padding: 0; 
 }
-.entradas li{ margin: 0.8em 1.2em; }
-.entradas li h2{ margin-left: -1em; }
-.ins-entrada{ font-size: 0.9em; border-bottom: 1px solid #ccc; }
-.ins-entrada dl{ font-weight: bold; }
-.metanav{ text-align: right; font-size: 0.8em; padding: 0.3em;
-                  margin-bottom: 1em; background: #fafafa; }
-.flash{ background: #CEE5F5; padding: 0.5em;
-                  border: 1px solid #AACBE2; }
-.erro{ background: #F0D6D6; padding: 0.5em; }
+.entradas li{ 
+    margin: 0.8em 1.2em; 
+}
+.entradas li h2{ 
+    margin-left: -1em; 
+}
+.ins-entrada{ 
+    font-size: 0.9em; border-bottom: 1px solid #ccc; 
+}
+.ins-entrada dl{ 
+    font-weight: bold; 
+}
+.metanav{ 
+    text-align: right; font-size: 0.8em; padding: 0.3em;
+    margin-bottom: 1em; background: #fafafa; 
+}
+.flash{ 
+    background: #CEE5F5; padding: 0.5em;
+    border: 1px solid #AACBE2; 
+}
+.erro{ 
+    background: #F0D6D6; padding: 0.5em; 
+}
